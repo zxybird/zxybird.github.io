@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zxybird.top/"/>
-  <updated>2017-02-13T13:14:44.000Z</updated>
+  <updated>2017-02-13T17:20:36.000Z</updated>
   <id>http://zxybird.top/</id>
   
   <author>
@@ -16,67 +16,46 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>postName</title>
+    <title>开业大吉</title>
+    <link href="http://zxybird.top/2017/02/%E5%BC%80%E4%B8%9A%E5%A4%A7%E5%90%89.html"/>
+    <id>http://zxybird.top/2017/02/开业大吉.html</id>
+    <published>2017-02-13T12:41:38.000Z</published>
+    <updated>2017-02-13T17:20:36.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="category2" scheme="http://zxybird.top/categories/category2/"/>
+    
+    
+      <category term="tag1" scheme="http://zxybird.top/tags/tag1/"/>
+    
+      <category term="tag2" scheme="http://zxybird.top/tags/tag2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>这是我的第一篇博客</title>
     <link href="http://zxybird.top/2017/02/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2.html"/>
     <id>http://zxybird.top/2017/02/这是我的第一篇博客.html</id>
     <published>2017-02-13T11:41:38.000Z</published>
-    <updated>2017-02-13T13:14:44.000Z</updated>
+    <updated>2017-02-13T17:55:23.000Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="这是一个例子网页1"><a href="#这是一个例子网页1" class="headerlink" title="这是一个例子网页1"></a>这是一个例子网页1</h1><h2 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h2><h2 id="第二章"><a href="#第二章" class="headerlink" title="第二章"></a>第二章</h2><h2 id="第三章"><a href="#第三章" class="headerlink" title="第三章"></a>第三章</h2>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;这是一个例子网页1&quot;&gt;&lt;a href=&quot;#这是一个例子网页1&quot; class=&quot;headerlink&quot; title=&quot;这是一个例子网页1&quot;&gt;&lt;/a&gt;这是一个例子网页1&lt;/h1&gt;&lt;h2 id=&quot;第一章&quot;&gt;&lt;a href=&quot;#第一章&quot; class=&quot;headerlink
-    
-    </summary>
-    
-    
-      <category term="Java 第一" scheme="http://zxybird.top/tags/Java-%E7%AC%AC%E4%B8%80/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://zxybird.top/2017/02/test.html"/>
-    <id>http://zxybird.top/2017/02/test.html</id>
-    <published>2017-02-13T09:41:51.000Z</published>
-    <updated>2017-02-13T12:38:55.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="这是一个例子网页2"><a href="#这是一个例子网页2" class="headerlink" title="这是一个例子网页2"></a>这是一个例子网页2</h1><h2 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h2><h2 id="第二章"><a href="#第二章" class="headerlink" title="第二章"></a>第二章</h2><h2 id="第三章"><a href="#第三章" class="headerlink" title="第三章"></a>第三章</h2>]]></content>
+    <content type="html"><![CDATA[<h1 id="这是一个例子网页1"><a href="#这是一个例子网页1" class="headerlink" title="这是一个例子网页1"></a>这是一个例子网页1</h1><h2 id="第一章1"><a href="#第一章1" class="headerlink" title="第一章1"></a>第一章1</h2><h2 id="第二章"><a href="#第二章" class="headerlink" title="第二章"></a>第二章</h2><h2 id="第三章"><a href="#第三章" class="headerlink" title="第三章"></a>第三章</h2>]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;这是一个例子网页2&quot;&gt;&lt;a href=&quot;#这是一个例子网页2&quot; class=&quot;headerlink&quot; title=&quot;这是一个例子网页2&quot;&gt;&lt;/a&gt;这是一个例子网页2&lt;/h1&gt;&lt;h2 id=&quot;第一章&quot;&gt;&lt;a href=&quot;#第一章&quot; class=&quot;headerlink
+      &lt;h1 id=&quot;这是一个例子网页1&quot;&gt;&lt;a href=&quot;#这是一个例子网页1&quot; class=&quot;headerlink&quot; title=&quot;这是一个例子网页1&quot;&gt;&lt;/a&gt;这是一个例子网页1&lt;/h1&gt;&lt;h2 id=&quot;第一章1&quot;&gt;&lt;a href=&quot;#第一章1&quot; class=&quot;headerli
     
     </summary>
     
+      <category term="category1" scheme="http://zxybird.top/categories/category1/"/>
     
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://zxybird.top/2017/02/%E5%BC%80%E4%B8%9A%E5%A4%A7%E5%90%89.html"/>
-    <id>http://zxybird.top/2017/02/开业大吉.html</id>
-    <published>2017-02-13T09:16:17.000Z</published>
-    <updated>2017-02-13T13:11:37.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
+      <category term="tag1" scheme="http://zxybird.top/tags/tag1/"/>
     
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-    
-    </summary>
-    
+      <category term="tag2" scheme="http://zxybird.top/tags/tag2/"/>
     
   </entry>
   
