@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zxybird.top/"/>
-  <updated>2017-02-13T11:41:38.000Z</updated>
+  <updated>2017-02-13T12:38:43.000Z</updated>
   <id>http://zxybird.top/</id>
   
   <author>
@@ -17,12 +17,16 @@
   
   <entry>
     <title>postName</title>
-    <link href="http://zxybird.top//blog/2017/02/postName.html"/>
-    <id>http://zxybird.top//blog/2017/02/postName.html</id>
+    <link href="http://zxybird.top/2017/02/postName.html"/>
+    <id>http://zxybird.top/2017/02/postName.html</id>
     <published>2017-02-13T11:41:38.000Z</published>
-    <updated>2017-02-13T11:41:38.000Z</updated>
+    <updated>2017-02-13T12:38:43.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="这是一个例子网页"><a href="#这是一个例子网页" class="headerlink" title="这是一个例子网页"></a>这是一个例子网页</h1><h2 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h2><h2 id="第二章"><a href="#第二章" class="headerlink" title="第二章"></a>第二章</h2><h2 id="第三章"><a href="#第三章" class="headerlink" title="第三章"></a>第三章</h2>]]></content>
     
     <summary type="html">
+    
+      &lt;h1 id=&quot;这是一个例子网页&quot;&gt;&lt;a href=&quot;#这是一个例子网页&quot; class=&quot;headerlink&quot; title=&quot;这是一个例子网页&quot;&gt;&lt;/a&gt;这是一个例子网页&lt;/h1&gt;&lt;h2 id=&quot;第一章&quot;&gt;&lt;a href=&quot;#第一章&quot; class=&quot;headerlink&quot; ti
     
     </summary>
     
@@ -31,12 +35,16 @@
   
   <entry>
     <title>test</title>
-    <link href="http://zxybird.top//blog/2017/02/test.html"/>
-    <id>http://zxybird.top//blog/2017/02/test.html</id>
+    <link href="http://zxybird.top/2017/02/test.html"/>
+    <id>http://zxybird.top/2017/02/test.html</id>
     <published>2017-02-13T09:41:51.000Z</published>
-    <updated>2017-02-13T09:41:51.000Z</updated>
+    <updated>2017-02-13T12:38:55.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="这是一个例子网页2"><a href="#这是一个例子网页2" class="headerlink" title="这是一个例子网页2"></a>这是一个例子网页2</h1><h2 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h2><h2 id="第二章"><a href="#第二章" class="headerlink" title="第二章"></a>第二章</h2><h2 id="第三章"><a href="#第三章" class="headerlink" title="第三章"></a>第三章</h2>]]></content>
     
     <summary type="html">
+    
+      &lt;h1 id=&quot;这是一个例子网页2&quot;&gt;&lt;a href=&quot;#这是一个例子网页2&quot; class=&quot;headerlink&quot; title=&quot;这是一个例子网页2&quot;&gt;&lt;/a&gt;这是一个例子网页2&lt;/h1&gt;&lt;h2 id=&quot;第一章&quot;&gt;&lt;a href=&quot;#第一章&quot; class=&quot;headerlink
     
     </summary>
     
@@ -45,8 +53,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://zxybird.top//blog/2017/02/hello-world.html"/>
-    <id>http://zxybird.top//blog/2017/02/hello-world.html</id>
+    <link href="http://zxybird.top/2017/02/hello-world.html"/>
+    <id>http://zxybird.top/2017/02/hello-world.html</id>
     <published>2017-02-13T09:16:17.000Z</published>
     <updated>2017-02-13T09:16:17.000Z</updated>
     
